@@ -1,12 +1,8 @@
 {
-    "name": "vercel-pairing",
+    "name": "spampair-api",
     "version": "1.0.0",
-    "private": true,
     "dependencies": {
-        "@whiskeysockets/baileys": "^6.7.9",
-        "pino": "^9.5.0"
-    },
-    "engines": {
-        "node": ">=20.0.0"
+        "@whiskeysockets/baileys": "6.7.9",
+        "pino": "9.5.0"
     }
 }
